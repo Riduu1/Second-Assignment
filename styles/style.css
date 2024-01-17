@@ -339,7 +339,7 @@ div{
     margin: 20px auto;
     border-radius: 16px;
     border: 1px solid rgba(233, 68, 68, 0.20);
-    background: rgba(233, 68, 68, 0.05);
+    background: rgba(41, 206, 246, 0.20);
     padding: 20px;
        
  }
@@ -419,6 +419,7 @@ div{
     text-align: center;
     padding-top: 50px;
     padding-bottom: 55px;
+    padding-right: 50px;
    
  }
 
